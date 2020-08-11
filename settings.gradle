@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Admission enquiry for charusat'
